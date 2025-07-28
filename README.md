@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
 <!-- Logo -->
-<img src="https://raw.githubusercontent.com/yaarian-om/SERVER/a700d4c135a558cce62b85dba7225760c459197d/1010110010/Interstellar-Library/Logo.svg" alt="Interstellar Library Logo" width="100%" height="250"/>
+<img src="https://raw.githubusercontent.com/the-sudipta/book_sell_management_system/8cb212fa43bc310a548d4c5c791a0ff8bb0bb154/resources/Logo.svg" alt="Interstellar Library Logo" width="100%" height="250"/>
 <!-- Badges => Clone_Count, Platform=windows, Stars, DataBase  -->
  <p align="center">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.&logoColor=white"alt="Web"/>
@@ -54,10 +54,6 @@
         <td class="text-center">20-43658-2</td>
     </tr>
     <tr>
-        <td class="text-center">Abdullah All Mahmud</td>
-        <td class="text-center">20-44134-2</td>
-    </tr>
-    <tr>
         <td class="text-center">Md. Najmus Shakib Khasru Parvez</td>
         <td class="text-center">20-43548-1</td>
     </tr>
@@ -93,7 +89,7 @@ git clone https://github.com/yaarian-om/Interstellar_Library
 - Download
   -  To download all the folders together manually, press download from Code, shown below
 <p align="center">
-    <img src="https://raw.githubusercontent.com/yaarian-om/SERVER/main/1010110010/Interstellar-Library/Interstellar_Library_Manual_Download.webp" alt="Interstellar_Library Manual Download" width="50%" height="250"/>
+    <img src="https://raw.githubusercontent.com/the-sudipta/book_sell_management_system/refs/heads/main/resources/Interstellar_Library_Manual_Download.webp" alt="Interstellar_Library Manual Download" width="50%" height="250"/>
 </p>
 
 
