@@ -96,4 +96,4 @@ git clone https://github.com/yaarian-om/Interstellar_Library
 <!-- License Badge -->
 <p align="center"><img src="https://img.shields.io/badge/License-Universal(1.0)-cyan"/></p>
 <!-- License Released -->
-Released under [MIT](/LICENSE) by [@yaarian-om](https://github.com/yaarian-om).
+Released under [MIT](/LICENSE) by [@the-sudipta](https://github.com/the-sudipta).
